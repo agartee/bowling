@@ -19,5 +19,5 @@ A module that will track scoring a bowling game for a single player. This is a t
 
 - The API of the program should be simple.
 - Be consistent with language (e.g. "roll" and "throw" are often used, just pick one and stick with it).
-- Only valid rolls/throws should be accepted by the application (e.g. 0-10 pins, no more than 10 total pins in a standard frame, etc.)
+- Only valid rolls/throws should be accepted by the application (e.g., 0-10 pins, no more than 10 total pins in a standard frame, etc.)
 - One should not be able to make rolls/throws outside of the intended API functions, properties, etc.
